@@ -120,3 +120,5 @@ playButton = Button(master, text="PLAY", padx=10,
 
 #master.mainloop so that the GUI will continue on display (should always be on your code)
 master.mainloop()
+
+print("asdasd")
